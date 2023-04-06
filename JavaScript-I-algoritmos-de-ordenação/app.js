@@ -1,4 +1,4 @@
-const precosDeLivros = [25, 15, 42, 30, 57, 12]
+const listaLivros = require('./listaLivros');
 
 let maisBarato = precosDeLivros[0];
 
