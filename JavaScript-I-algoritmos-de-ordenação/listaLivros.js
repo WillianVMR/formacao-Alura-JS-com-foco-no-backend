@@ -1,4 +1,4 @@
-const precosDeLivros = [
+const precosLivros = [
     {
         titulo: 'Go',
         preco: 15
@@ -25,6 +25,8 @@ const precosDeLivros = [
     },
     {
         titulo: 'Go',
-        preco: 15
+        preco: 20
     }
-]
+];
+
+module.exports = precosLivros;
